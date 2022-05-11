@@ -1,7 +1,7 @@
 # Digital Innovation One - Live Coding ( Back end )
 
 
-Projeto simples de sistema de votação do BBB , guiado por Rodrigo Tavares da Avanade
+Projeto simples de sistema de votação do BBB , guiado pelo tutor Rodrigo Tavares da Avanade
 
 Tecnologias Utilizadas
 - Angular de front-end;
