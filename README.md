@@ -1,4 +1,4 @@
-# Digital Innovation one - Live Coding
+# Digital Innovation One - Live Coding
 
 
 Projeto simples de sistema de votação do BBB , guiado por Rodrigo Tavares da Avanade
